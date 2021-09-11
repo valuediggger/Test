@@ -1,5 +1,2 @@
-libsm6
-libxrender1
-libfontconfig1
-libice6
-libgl1-mesa-glx
+sudo apt-get install libsm6 libxrender1 libfontconfig1 libice6 libgl1-mesa-glx
+
